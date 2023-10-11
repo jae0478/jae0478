@@ -1,4 +1,8 @@
 ### Hi there 👋
+# Hi I'm jaein
+###### hufs computer major
+
+
 
 <!--
 **jae0478/jae0478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
